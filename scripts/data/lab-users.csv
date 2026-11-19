@@ -1,0 +1,18 @@
+EmployeeID,UpnPrefix,DisplayName,GivenName,Surname,JobTitle,Department,EmployeeType,OfficeLocation,HireDate,ManagerEmployeeID
+GT0001,maya.adeyemi,Maya Adeyemi,Maya,Adeyemi,Chief Executive Officer,Executive,Employee,Toronto HQ,2016-03-01,
+GT0007,paula.mwangi,Paula Mwangi,Paula,Mwangi,IT Manager,IT,Employee,Toronto HQ,2019-10-01,GT0001
+GT0008,ana.nakamura,Ana Nakamura,Ana,Nakamura,Identity & Access Administrator,IT,Employee,Toronto HQ,2018-02-01,GT0007
+GT0013,julia.kowalski,Julia Kowalski,Julia,Kowalski,Security Analyst,IT,Employee,Toronto HQ,2024-06-01,GT0007
+GT0020,sofia.barros,Sofia Barros,Sofia,Barros,Service Desk Analyst,IT,Employee,Toronto HQ,2019-01-01,GT0007
+GT0032,emeka.barros,Emeka Barros,Emeka,Barros,Finance Manager,Finance,Employee,Toronto HQ,2023-04-01,GT0001
+GT0047,emeka.sutherland,Emeka Sutherland,Emeka,Sutherland,Payroll Specialist,Finance,Employee,Toronto HQ,2022-09-01,GT0032
+GT0050,samuel.eze,Samuel Eze,Samuel,Eze,Financial Analyst,Finance,Employee,Toronto HQ,2021-03-01,GT0032
+GT0062,paula.walsh,Paula Walsh,Paula,Walsh,HR Manager,HR,Employee,Toronto HQ,2025-02-01,GT0001
+GT0070,sara.bajwa,Sara Bajwa,Sara,Bajwa,HR Administrator,HR,Employee,Toronto HQ,2025-04-01,GT0062
+GT0077,owen.moreau,Owen Moreau,Owen,Moreau,Sales Director,Sales,Employee,Toronto HQ,2024-03-01,GT0001
+GT0085,rosa.sutherland,Rosa Sutherland,Rosa,Sutherland,Account Executive,Sales,Employee,Remote (Ontario),2026-02-01,GT0077
+GT0137,nia.delgado,Nia Delgado,Nia,Delgado,Marketing Manager,Marketing,Employee,Toronto HQ,2024-10-01,GT0001
+GT0144,paula.kim,Paula Kim,Paula,Kim,Content Writer,Marketing,Employee,Remote (Ontario),2026-05-01,GT0137
+GT0166,ingrid.novak,Ingrid Novak,Ingrid,Novak,Operations Manager,Operations,Employee,Mississauga Warehouse,2023-08-01,GT0001
+GT0167,tariq.sutherland,Tariq Sutherland,Tariq,Sutherland,Project Manager,Operations,Employee,Toronto HQ,2026-07-01,GT0166
+GT0181,hannah.kariuki,Hannah Kariuki,Hannah,Kariuki,Solar Installation Technician,Operations,Employee,Field (Ontario),2024-07-01,GT0166

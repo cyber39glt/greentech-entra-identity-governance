@@ -1,0 +1,19 @@
+# Never commit secrets or raw exports
+*.env
+.env*
+*.pfx
+*.pem
+*.key
+secrets/
+break-glass*
+# Raw, unredacted evidence stays local — only redacted copies go in 09-evidence
+raw-evidence/
+*.unredacted.*
+# Raw log exports may contain IPs, tenant IDs and real emails
+*-raw.csv
+*-raw.json
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

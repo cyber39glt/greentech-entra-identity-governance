@@ -1,0 +1,21 @@
+GroupName,Description,OwnerEmployeeID,Category
+SG-ALL-Employees,All permanent employees (excludes contractors and guests),GT0062,Baseline
+SG-ALL-Managers,People managers - approvers for access requests,GT0062,Role
+SG-EXE-Leadership,Executive leadership team,GT0001,Department
+SG-IT-Staff,IT department members,GT0007,Department
+SG-FIN-Staff,Finance department members,GT0032,Department
+SG-HR-Staff,HR department members,GT0062,Department
+SG-SAL-Staff,Sales department members,GT0077,Department
+SG-MKT-Staff,Marketing department members,GT0137,Department
+SG-OPS-Staff,Operations department members,GT0166,Department
+SG-OPS-Frontline,Field and frontline workers (mobile apps only),GT0166,Role
+SG-FIN-Payroll-Restricted,Payroll data - highly confidential,GT0032,Sensitive
+SG-HR-Records-Restricted,Employee records - highly confidential,GT0062,Sensitive
+SG-APP-LedgerPro-Users,Access to LedgerPro (fictional ERP),GT0032,Application
+SG-APP-TalentHub-Users,Access to TalentHub (fictional HRIS),GT0062,Application
+SG-APP-PipelineCRM-Users,Access to PipelineCRM (fictional CRM),GT0077,Application
+SG-APP-FieldOps-Users,Access to FieldOps (fictional field scheduling app),GT0166,Application
+SG-SPO-ExternalAudit-Members,External Audit 2026 SharePoint site - time-bound,GT0032,Resource
+SG-EXT-Contractors,All contractor accounts - must have an end date,GT0007,External
+SG-EXT-Guests,All B2B guest accounts - must have a sponsor,GT0007,External
+SG-SEC-BreakGlass-Exclude,Emergency access accounts - excluded from lockout-risk policies,GT0007,Security
